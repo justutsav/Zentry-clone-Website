@@ -1,4 +1,4 @@
-import { FaDiscord, FaTwitter, FaGithub, FaYoutube } from 'react-icons/fa';
+import { FaDiscord, FaInstagram, FaGithub, FaYoutube } from 'react-icons/fa';
 
 const links = [
   { href: 'https://github.com/justutsav', icon: <FaGithub /> },
